@@ -1,7 +1,3 @@
-Here’s a README file for your **Exploratory Data Analysis (EDA) of Insurance Policies using Tableau** project:
-
----
-
 # 📊 Exploratory Data Analysis of Insurance Policies using Tableau
 
 This project focuses on analyzing a dataset of **37.5K+ insurance policies** to uncover insights into the trends, behaviors, and patterns of policyholders. The data includes **16 columns**, containing information about the policyholders and the insurance policies they have taken.
